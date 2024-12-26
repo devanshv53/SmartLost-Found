@@ -1,0 +1,12 @@
+.layout{
+    display: flex;
+}
+
+.content{
+    width: 78vw;
+}
+
+.outlet{
+    padding: 10px 2vw;
+    padding-right: 3vw;
+}

@@ -1,0 +1,43 @@
+.home{
+    
+}
+
+.homeHeader{
+
+    background-color: #2F2F2F;
+    width: 100%;
+    padding: 20px 40px;
+    color: white;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.group{
+    display: flex;
+    gap: 20px;
+}
+
+.homeContainer{
+
+    display: flex;
+    color: white;
+    flex-direction: column;
+    align-items: center;
+
+    padding-top: 150px;
+
+}
+
+.homeHeads{
+    margin-top: 50px;
+    width: 70vw;
+    text-align: center;
+}
+
+.homeHeads > p{
+    margin-top: 10px;
+    font-weight: 200;
+}
